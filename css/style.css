@@ -37,7 +37,7 @@ p {
 /* card */
 #card {
   display: flex;
-  align-items: center;
+  align-items: stretch;
 }
 
 .main {
